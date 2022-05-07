@@ -18,6 +18,8 @@ public class ArthasTunnelApplicationTest {
     public void contextLoads() {
         System.out.println("hello");
         System.out.println("hello2");
+        System.out.println("hello2");
+        System.out.println("hello2");
     }
 
 }
