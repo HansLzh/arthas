@@ -32,6 +32,7 @@ public class ArthasTunnelApplicationTest {
         System.out.println("hello5");
         System.out.println("hello7");
         System.out.println("hello8");
+        System.out.println("hello10");
     }
 
 }
